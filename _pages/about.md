@@ -12,4 +12,4 @@ I'm currently a first year PhD student in the [Quantitative and Computational Bi
 
 My recent work has focused on developing online resources to better understand extracellular RNAs (e.g., [the exRNA Atlas](https://exrna-atlas.org/)), but I'm excited to move into statistical genomics as a graduate student. Right now, I'm rotating in [Dr. John Storey's lab](http://storeylab.org/).
 
-Feel free to send an email if you have any questions or comments!
+Feel free to send an email or tweet if you have any questions or comments!
