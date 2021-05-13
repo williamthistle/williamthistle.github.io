@@ -19,4 +19,4 @@ I also made significant contributions to the ERC program’s extra-cellular RNA 
 
 **The Genetics of Aging**
 
-Nowadays, I'm delving into statistical genomics - I'm a member of [Dr. Josh Akey's lab](https://akeylab.princeton.edu/) and my thesis work focuses on the genetics of aging, using domestic dogs as a model organism. I'm proud to be a part of the [Dog Aging Project](https://dogagingproject.org/). More coming soon!
+Nowadays, as a member of [Dr. Josh Akey's lab](https://akeylab.princeton.edu/), I'm focusing on the genetics of aging, using domestic dogs as a model organism. I'm proud to be a part of the [Dog Aging Project](https://dogagingproject.org/). More coming soon!
