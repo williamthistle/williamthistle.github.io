@@ -7,4 +7,4 @@ author_profile: true
 
 In addition to my various social media profiles, you can also reach me via email:
 
-wat2 [at] princeton [dot] edu
+wat2 [at] the name of my university [dot] edu
