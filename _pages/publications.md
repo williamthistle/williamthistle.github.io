@@ -8,7 +8,7 @@ author_profile: true
 The * symbol indicates that authors contributed equally.
 I have bolded my name (or the group that includes my name) in all author lists.
 
-1. Kate E. Creevy, Joshua M. Akey, Matt Kaeberlein, Daniel E.L. Promislow, **The Dog Aging Project Consortium**. The Dog Aging Project: An Open Science Study of Aging in Companion Dogs. Nature (in press).
+1. Kate E. Creevy, Joshua M. Akey, Matt Kaeberlein, Daniel E.L. Promislow, and **The Dog Aging Project Consortium**. The Dog Aging Project: An Open Science Study of Aging in Companion Dogs. Nature. 2022;602(7895):51-7.
 
 2.	Oscar D. Murillo\*, **William Thistlethwaite\***, Joel Rozowsky, Sai Lakshmi Subramanian, Rocco Lucero, Neethu Shah, Andrew R. Jackson, Srimeenakshi Srinivasan, Allen Chung, Clara D. Laurent, Robert R. Kitchen, Timur Galeev, Jonathan Warrell, James A. Diao, Joshua A. Welsh, Kristina Hanspers, Anders Riutta, Sebastian Burgstaller-Muehlbacher, Ravi Shah, Ashish Yeri, Lisa M. Jenkins, Mehmet E. Ahsen, Carlos Cordon-Cardo, Navneet Dogra, Stacey M. Gifford, Joshua T. Smith, Gustavo Stolovitzky, Ashutosh K. Tewari, Benjamin H. Wunsch, Kamlesh K. Yadav, Kirsty M. Danielson, Justyna Filant, Courtney Moeller, Parham Nejad, Anu Paul, Bridget Simonson, David K. Wong, Xuan Zhang, Leonora Balaj, Roopali Gandhi, Anil K. Sood, Roger P. Alexander, Liang Wang, Chunlei Wu, David Wong, David J. Galas, Kendall Van Keuren-Jensen, Tushar Patel, Jennifer C. Jones, Saumya Das, Kei-Hoi Cheung, Alexander R. Pico, Andrew I. Su, Robert L. Raffai, Louise C. Laurent, Matthew E. Roth, Mark B. Gerstein, and Aleksandar Milosavljevic. exRNA Atlas Analysis Reveals Distinct Extracellular RNA Cargo Types and Their Carriers Present across Human Biofluids. Cell. 2019;177(2):463-477.e15.
 
