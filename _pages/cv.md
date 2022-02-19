@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My [CV](http://williamthistle.github.io/files/Thistlethwaite-CV.pdf) (last updated Jan 11, 2022).
+My [CV](http://williamthistle.github.io/files/Thistlethwaite-CV.pdf) (last updated Feb 19, 2022).
