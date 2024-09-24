@@ -1,13 +1,22 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
-  - /research
+  - /projects
 ---
 
 {% include base_path %}
+
+I am generally interested in developing and applying machine learning methods for the benefit of everyone. I also like building online resources that provide access to data in intuitive, programmatic ways. My previous work has focused primarily on molecular biology, particularly in the context of human health and disease, but I'm open (and excited!) to explore new avenues after I graduate with my PhD.
+
+Below, I'll highlight a few projects which have been important to me:
+
+**Innate Immune Memory in Influenza Infection**
+
+
+
 
 **Extracellular RNAs**
 
