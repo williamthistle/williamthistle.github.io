@@ -13,9 +13,17 @@ I am generally interested in developing machine learning methods and applying th
 
 Below, I'll highlight a few projects that have been important to me:
 
-**Innate Immune Memory in Influenza Infection**
+**[Innate Immune Memory in Influenza Infection](https://www.biorxiv.org/content/10.1101/2024.09.20.612974v1) (First Author, Preprint on bioRxiv)**
 
-TODO
+Viral infections can induce changes in innate immunity that persist after virus clearance. Here, we used blood samples from a human influenza H3N2 challenge study to perform comprehensive multi-omic analyses. We detected remodeling of immune programs in innate immune cells after resolution of the infection that was proportional in magnitude to the level of prior viral load. We found changes associated with suppressed inflammation including decreased cytokine and AP-1 gene expression as well as decreased accessibility at AP-1 targets and interleukin-related gene promoter regions. We also found decreased histone deacetylase gene expression, increased MAP kinase gene expression, and increased accessibility at interferon-related gene promoter regions. Genes involved in inflammation and epigenetic-remodeling showed modulation of gene-chromatin site regulatory circuit activity. These results reveal a coordinated rewiring of the epigenetic landscape in innate immune cells induced by mild influenza virus infection.
+
+To learn more, please visit the [associated manuscript](https://www.biorxiv.org/content/10.1101/2024.09.20.612974v1).
+
+**[SPEEDI (Single-cell Pipeline for End to End Data Integration)](https://www.biorxiv.org/content/10.1101/2023.11.01.564815v2) (Co-first author, Preprint on bioRxiv, Accepted in Cell Systems)**
+
+To facilitate single-cell multi-omics analysis and improve reproducibility, we present SPEEDI (Single-cell Pipeline for End to End Data Integration), a fully automated end-to-end framework for batch inference, data integration, and cell type labeling. SPEEDI introduces data-driven batch inference and transforms the often heterogeneous data matrices obtained from different samples into a uniformly annotated and integrated dataset. Without requiring user input, it automatically selects parameters and executes pre-processing, sample integration, and cell type mapping. It can also perform downstream analyses of differential signals between treatment conditions and gene functional modules. SPEEDI’s data-driven batch inference method works with widely used integration and cell-typing tools. By developing data-driven batch inference, providing full end-to-end automation, and eliminating parameter selection, SPEEDI improves reproducibility and lowers the barrier to obtaining biological insight from these valuable single-cell datasets.
+
+To learn more, please visit the [SPEEDI R package](https://github.com/FunctionLab/SPEEDI), the [SPEEDI interactive web application](https://speedi.princeton.edu/), or the [SPEEDI manuscript](https://www.biorxiv.org/content/10.1101/2023.11.01.564815v2).
 
 **Extracellular RNAs**
 
