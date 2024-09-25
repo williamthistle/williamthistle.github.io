@@ -31,6 +31,12 @@ To learn more, please visit the [SPEEDI R package](https://github.com/FunctionLa
 
 ---
 
+**[Dog Aging Project](https://www.nature.com/articles/s41586-021-04282-9) (Published in Nature)**
+
+As part of the [Dog Aging Project](https://dogagingproject.org/), a consortium funded to research dog aging and health and their relevance to human health and disease,  I collaborated with other researchers to create cloud-based pipelines on Terra for genomic data ingestion and processing.
+
+---
+
 **[Virtual Repository](https://genboree.org/vbr-hub/)**
 
 I played a key role in the development of the Extracellular RNA Communication (ERC) program’s Virtual Biorepository (VBR) resource, a web-based service that mediates biological sample transfers between sample providers and requesters. As the project liaison for the VBR, I gave oral and poster presentations at numerous conferences, participated in monthly organizational calls with stakeholders, and provided significant feedback to programmers on our team for fixing bugs and improving features.
