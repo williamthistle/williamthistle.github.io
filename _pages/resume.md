@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My [Resume](https://williamthistle.github.io/files/Thistlethwaite_William_Resume_09-24-24.pdf) (last updated September 24, 2024).
+My [resume](https://williamthistle.github.io/files/Thistlethwaite_William_Resume_09-24-24.pdf) (last updated September 24, 2024).
