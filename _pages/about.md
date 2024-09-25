@@ -16,7 +16,7 @@ I'm a data scientist with 10 years of experience in machine learning, data engin
 
 **I'm excited to share that I will be defending my thesis in December of 2024!** I am on the job market, looking for remote opportunities in industry where I can apply my skills in machine learning and data science to make long-lasting impact. To see examples of my previous work, please visit my [Projects page](https://williamthistle.github.io/projects/) or download my [resume](https://williamthistle.github.io/files/Thistlethwaite_William_Resume_09-24-24.pdf). For a complete list of my publications and preprints, you can visit my [Publications page](https://williamthistle.github.io/publications/) or [Google Scholar profile](https://scholar.google.com/citations?user=7cG7u7UAAAAJ&hl=en).
 
-A brief summary of my technical skills can be found below:
+A brief overview of my technical skills can be found below:
 
 **Languages**: Python, R, Ruby, Bash, SQL  
 **Frameworks**: PyTorch, XGBoost, Keras, scikit-learn, pandas, NumPy, seaborn, tidyverse  
