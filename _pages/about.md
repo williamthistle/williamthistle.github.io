@@ -19,7 +19,7 @@ I'm excited to share that I will be defending my thesis in December of 2024! I a
 A brief summary of my technical skills can be found below:
 
 **Languages**: Python, R, Ruby, Bash, SQL  
-**Frameworks**: PyTorch, XGBoost, Keras, scikit-learn, pandas, NumPy, Matplotlib, seaborn, tidyverse  
+**Frameworks**: PyTorch, XGBoost, Keras, scikit-learn, pandas, NumPy, seaborn, tidyverse  
 **Databases**: PostgreSQL, NoSQL (MongoDB)  
 **Platforms**: Git, SVN, MLflow, Docker  
 
