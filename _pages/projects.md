@@ -27,7 +27,7 @@ To learn more, please visit the [associated preprint](https://www.biorxiv.org/co
 
 To facilitate single-cell multi-omics analysis and improve reproducibility, we present SPEEDI (Single-cell Pipeline for End to End Data Integration), a fully automated end-to-end framework for batch inference, data integration, and cell type labeling. SPEEDI introduces data-driven batch inference and transforms the often heterogeneous data matrices obtained from different samples into a uniformly annotated and integrated dataset. Without requiring user input, it automatically selects parameters and executes pre-processing, sample integration, and cell type mapping. It can also perform downstream analyses of differential signals between treatment conditions and gene functional modules. SPEEDI’s data-driven batch inference method works with widely used integration and cell-typing tools. By developing data-driven batch inference, providing full end-to-end automation, and eliminating parameter selection, SPEEDI improves reproducibility and lowers the barrier to obtaining biological insight from these valuable single-cell datasets.
 
-To learn more, please visit the [associated paper](https://www.cell.com/cell-systems/abstract/S2405-4712(24)00267-9), the [SPEEDI R package](https://github.com/FunctionLab/SPEEDI), or the [SPEEDI interactive web application](https://speedi.princeton.edu/).
+To learn more, please visit the [associated publication](https://www.cell.com/cell-systems/abstract/S2405-4712(24)00267-9), the [SPEEDI R package](https://github.com/FunctionLab/SPEEDI), or the [SPEEDI interactive web application](https://speedi.princeton.edu/).
 
 ---
 
