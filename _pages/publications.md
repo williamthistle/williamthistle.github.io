@@ -8,9 +8,9 @@ author_profile: true
 The * symbol indicates that authors contributed equally.
 I have bolded my name (or the group that includes my name) in all author lists.
 
-1. Yuan Wang*, **William Thistlethwaite\***, Alicja Tadych, Frederique Ruf-Zamojski, Daniel J. Bernard, Antonio Cappuccio, Elena Zaslavsky, Xi Chen, Stuart C. Sealfon, and Olga G. Troyanskaya. Automated single-cell omics end-to-end framework with data-driven batch inference. Cell Syst. 2024 Oct 3.
+1. **William Thistlethwaite\***, Sindhu Vangeti\*, Wan-Sze Cheng, Pankaj Agarwal, Antonio Cappuccio, Wenliang Wang, Bei Wei, Rachel Myers, Aliza B. Rubenstein, Daniel Chawla, Manoj Hariharan, Micah T. McClain, Thomas W. Burke, Steven H. Kleinstein, Joseph R. Ecker, Christopher W. Woods, William J. Greenleaf, Xi Chen, Irene Ramos, Elena Zaslavsky, Thomas G. Evans, Olga G. Troyanskaya, and Stuart C. Sealfon. Innate immune epigenomic landscape following controlled human influenza virus infection. bioRxiv. 2024 Sept 24.
 
-2. **William Thistlethwaite\***, Sindhu Vangeti\*, Wan-Sze Cheng, Pankaj Agarwal, Antonio Cappuccio, Wenliang Wang, Bei Wei, Rachel Myers, Aliza B. Rubenstein, Daniel Chawla, Manoj Hariharan, Micah T. McClain, Thomas W. Burke, Steven H. Kleinstein, Joseph R. Ecker, Christopher W. Woods, William J. Greenleaf, Xi Chen, Irene Ramos, Elena Zaslavsky, Thomas G. Evans, Olga G. Troyanskaya, and Stuart C. Sealfon. Innate immune epigenomic landscape following controlled human influenza virus infection. bioRxiv. 2024 Sept 24.
+2. Yuan Wang*, **William Thistlethwaite\***, Alicja Tadych, Frederique Ruf-Zamojski, Daniel J. Bernard, Antonio Cappuccio, Elena Zaslavsky, Xi Chen, Stuart C. Sealfon, and Olga G. Troyanskaya. Automated single-cell omics end-to-end framework with data-driven batch inference. Cell Syst. 2024 Oct 3.
 
 3. Kate E. Creevy, Joshua M. Akey, Matt Kaeberlein, Daniel E.L. Promislow, and **The Dog Aging Project Consortium**. The Dog Aging Project: An Open Science Study of Aging in Companion Dogs. Nature. 2022;602(7895):51-7.
   
