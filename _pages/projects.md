@@ -33,7 +33,7 @@ To learn more, please visit the [associated publication](https://www.cell.com/ce
 
 **[Dog Aging Project](https://www.nature.com/articles/s41586-021-04282-9) (Published in Nature)**
 
-As part of the [Dog Aging Project](https://dogagingproject.org/), a consortium funded to research dog aging and health and their relevance to human health and disease,  I collaborated with other researchers to create cloud-based pipelines on Terra for genomic data ingestion and processing.
+As part of the [Dog Aging Project](https://dogagingproject.org/), a consortium funded to research dog aging and health and their relevance to human health and disease, I collaborated with a team of 4+ researchers to create Google Cloud Platform based pipelines for genomic data ingestion and processing.
 
 To learn more, please visit the [associated publication](https://www.nature.com/articles/s41586-021-04282-9).
 
