@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am generally interested in developing machine learning methods and applying them in impactful ways. I also enjoy building online resources that provide programmatic, intuitive access to data. My previous work has focused primarily on molecular biology, particularly in the context of human health and disease, but I'm open to exploring new avenues after I receive my PhD from Princeton in December of 2024.
+I am generally interested in developing machine learning methods and applying them in impactful ways. I also enjoy building online resources that provide programmatic, intuitive access to data. My previous work has focused primarily on molecular biology, particularly in the context of human health and disease, but I'm also open to exploring new avenues.
 
 Below, I'll highlight a few projects that have been important to me:
 
