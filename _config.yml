@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "William Thistlethwaite"
 title_separator          : "-"
 name                     : &name "William Thistlethwaite"
-description              : &description "Senior Quantitative Analyst, Leidos"
+description              : &description "Senior Data Scientist, Leidos"
 url                      : https://williamthistle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "williamthistle/williamthistle.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "William Thistlethwaite"
   avatar           : "Thistlethwaite_William_Profile.jpg"
-  bio              : "Senior Quantitative Analyst, Leidos"
+  bio              : "Senior Data Scientist, Leidos"
   location         : "Princeton, NJ"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
