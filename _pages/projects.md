@@ -55,8 +55,6 @@ To learn more, please visit the [associated publication](https://www.cell.com/ce
 
 ---
 
-**[Virtual Repository](https://genboree.org/vbr-hub/)**
+**Virtual Repository**
 
 I played a key role in the development of the Extracellular RNA Communication (ERC) program’s Virtual Biorepository (VBR) resource, a web-based service that mediates biological sample transfers between sample providers and requesters. As the project liaison for the VBR, I gave oral and poster presentations at numerous conferences, participated in monthly organizational calls with stakeholders, and provided significant feedback to programmers on our team for fixing bugs and improving features.
-
-To learn more, please visit the [VBR Hub website](https://genboree.org/vbr-hub/).
