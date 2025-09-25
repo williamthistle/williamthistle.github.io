@@ -52,9 +52,3 @@ To learn more, please visit the [associated publication](https://www.cell.com/ce
 I made significant contributions to the Extracellular RNA Communication (ERC) program’s extra-cellular RNA processing toolkit (exceRpt), a small and long RNA-seq data processing pipeline specialized for human and mouse exRNA data. I made exceRpt more accessible to the wider scientific community by helping to integrate it into the Genboree Workbench, a web-based platform that hosts a variety of different bioinformatics tools and stores related data for users. By submitting sample data for processing via the Workbench, users took advantage of our computing cluster and a highly parallel implementation of exceRpt, allowing for data from dozens of samples to be processed simultaneously. The Workbench version of exceRpt has been extensively used, with small RNA-seq data from over 26,000 samples processed since the tool was integrated in 2014. A paper describing our work on exceRpt was published in Cell Systems.
 
 To learn more, please visit the [associated publication](https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30074-2?sf210646498=1) or the [exceRpt homepage](https://github.gersteinlab.org/exceRpt/).
-
----
-
-**Virtual Repository**
-
-I played a key role in the development of the Extracellular RNA Communication (ERC) program’s Virtual Biorepository (VBR) resource, a web-based service that mediates biological sample transfers between sample providers and requesters. As the project liaison for the VBR, I gave oral and poster presentations at numerous conferences, participated in monthly organizational calls with stakeholders, and provided significant feedback to programmers on our team for fixing bugs and improving features.
